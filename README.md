@@ -7,3 +7,7 @@ Acko
 Uber
 
 Hcode
+
+## Adding Qualification
+
+BCA from PIET college
